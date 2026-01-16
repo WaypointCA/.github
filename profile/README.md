@@ -1,9 +1,10 @@
 # Waypoint Compliance Advisory
 
-**Cybersecurity consulting for organizations navigating compliance, risk, and AI security.**
+**Cybersecurity consulting for organizations navigating federal and state compliance, risk, and AI security.**
 
 [![SDVOSB](https://img.shields.io/badge/SDVOSB-Service--Disabled%20Veteran--Owned-blue)](https://waypointca.com)
 [![CAGE Code](https://img.shields.io/badge/CAGE-14Z63-green)](https://waypointca.com)
+[![Florida MFMP](https://img.shields.io/badge/Florida-MFMP%20Vendor-orange)](https://waypointca.com)
 
 ---
 
@@ -17,6 +18,8 @@
 
 📋 **Compliance & Risk Management** — NIST, ISO 27001, SOC 2, and custom frameworks
 
+🏛️ **State Government Support** — Florida MFMP registered vendor for state cybersecurity initiatives
+
 ---
 
 ## Open Source
@@ -24,14 +27,15 @@
 We believe in giving back to the security community:
 
 | Repository | Description |
-|------------|-------------|
+| --- | --- |
 | [ai-security-lab](https://github.com/WaypointCA/ai-security-lab) | Free 36-week AI security learning path |
+| [compliance-scripts](https://github.com/WaypointCA/compliance-scripts) | Automation scripts for CMMC, FedRAMP, and NIST 800-171 |
 
 ---
 
 ## About
 
-Waypoint Compliance Advisory LLC is a **Service-Disabled Veteran-Owned Small Business (SDVOSB)** founded by a Navy veteran with 21+ years in cybersecurity. We bring enterprise security expertise to organizations of all sizes.
+Waypoint Compliance Advisory LLC is a **Service-Disabled Veteran-Owned Small Business (SDVOSB)** founded by a Navy veteran with 21+ years in cybersecurity. We bring enterprise security expertise to federal contractors, state agencies, and organizations of all sizes.
 
 **Certifications:** CISSP • CEH • CHFI
 
@@ -41,4 +45,4 @@ Waypoint Compliance Advisory LLC is a **Service-Disabled Veteran-Owned Small Bus
 
 ---
 
-<sub>UEI: K2NVWB4QXKN6 | CAGE: 14Z63</sub>
+<sub>UEI: K2NVWB4QXKN6 | CAGE: 14Z63 | Florida MFMP Vendor</sub>
